@@ -2,7 +2,9 @@
 
 ## **Description:**
 
--- This application will allow the user to know their body weight if they were located on any planet in our solar system.
+-- This application will allow the user to calculate their body weight 
+
+ on any planet in our solar system.
 
 ## **INSTRUCTIONS:**
 
