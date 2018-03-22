@@ -1,0 +1,68 @@
+html {
+    background: url(universe-1044107.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+  }
+
+body {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.app {
+    position: absolute;
+    top: 50px;
+    right: 555px;
+    display: flex;
+    background: #ffffff3b;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.heading {
+    width: 600px;
+    padding: 5px;
+    margin: 0px;
+}
+
+h1 {
+    font: helvetica;
+    color:red;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.form-input {
+    padding: 20px;
+    text-align: center;
+    font: helvetica;
+    font-weight: bolder;
+    color: yellow;
+}
+
+.form-input calculator-button, calculator, output {
+    display: inline;
+}
+
+.calculator {
+    float: center;
+    padding: 50px;
+}
+
+#calculate-button {
+    background-color: yellow;
+}
+
+#output {
+    color:whitesmoke;
+    text-align: center;
+    font-size: 20px;
+}
