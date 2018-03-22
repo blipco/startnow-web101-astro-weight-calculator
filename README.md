@@ -14,7 +14,7 @@
 
 -- If you do not consider Pluto to be a planet click on the "Without Pluto" 
 
-###### DEPENDANCIES
+##### DEPENDANCIES
 
 1. axios
 2. chai
@@ -23,6 +23,6 @@
 5. nightmare
 6. node-static
 
-####### STYLING
+###### STYLING
 
 -- All styling of the Astro Weight Calculator is found in the styles.css file.
