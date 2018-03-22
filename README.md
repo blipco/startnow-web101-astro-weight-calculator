@@ -1,20 +1,20 @@
 # ASTRO WEIGHT CALCULATOR
 
-## Description:
+## **Description:**
 
--- This application will allow the user to know their body weight if they were           located on any planet in our solar system.
+-- This application will allow the user to know their body weight if they were located on any planet in our solar system.
 
-## INSTRUCTIONS:
+## **INSTRUCTIONS:**
 
 1. Input body weight into the "Weight (lbs.)" box.
 2. Click the planet name you want to choose from the drop down list of planets.
 3. Click the "Calculate" button.
 
-## EXTRAS:
+## **EXTRAS:**
 
 -- If you do not consider Pluto to be a planet click on the "Without Pluto". 
 
-## DEPENDENCIES:
+## **DEPENDENCIES:**
 
 1. axios
 2. chai
@@ -23,6 +23,6 @@
 5. nightmare
 6. node-static
 
-## STYLING:
+## **STYLING:**
 
 -- All styling of the Astro Weight Calculator is found in the styles.css file.
